@@ -1,4 +1,4 @@
-# Mini-tools
+# Mini-Tools
 
 ## NumberPicker選號器
 * 這是一個開源的簡易的選號器
